@@ -1,0 +1,12 @@
+modLoader = "javafml"
+loaderVersion = "[39,)"
+license = "LGPLv3"
+
+[[mods]]
+modId = "litematica"
+version = "${version}"
+displayName = "Litematica"
+authors="masa"
+description = '''
+A modern schematic mod for LiteLoader, Rift, Fabric etc.
+'''
